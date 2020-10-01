@@ -1,5 +1,5 @@
 require 'pry'
-array = []
+array = ["Tim", "Tom", "Jim"]
 def hello(array)
   i = 0
   collection = []
